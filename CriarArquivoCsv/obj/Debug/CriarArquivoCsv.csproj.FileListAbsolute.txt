@@ -1,0 +1,8 @@
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\bin\Debug\CriarArquivoCsv.exe.config
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\bin\Debug\CriarArquivoCsv.exe
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\bin\Debug\CriarArquivoCsv.pdb
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\obj\Debug\CriarArquivoCsv.csproj.AssemblyReference.cache
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\obj\Debug\CriarArquivoCsv.csproj.SuggestedBindingRedirects.cache
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\obj\Debug\CriarArquivoCsv.csproj.CoreCompileInputs.cache
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\obj\Debug\CriarArquivoCsv.exe
+C:\temp\modelos\CriarArquivoCsv\CriarArquivoCsv\obj\Debug\CriarArquivoCsv.pdb
